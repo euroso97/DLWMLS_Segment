@@ -1,0 +1,11 @@
+{
+    "channel_names": {
+        "0": "FLAIR"
+    },
+    "file_ending": ".nii.gz",
+    "labels": {
+        "background": 0,
+        "WMLS": 1
+    },
+    "numTraining": 286
+}
